@@ -1,5 +1,0 @@
-.idea/
-.pynb_checkpoints/
-.stacedit-trash/
-.idea
-
