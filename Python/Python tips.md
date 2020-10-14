@@ -6,7 +6,8 @@
       2. Use __init__.py to make the directory in a module, then you can import the file. 
       3. Use starter hash like to run it as a script. 
       		`#!/usr/bin/env python`
-
+2. Command line arguments
+      1. 
 2. Help links
       1. [https://www.w3schools.com/python/python_strings.asp](https://www.w3schools.com/python/python_strings.asp)
 3. Packages
