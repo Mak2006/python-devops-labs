@@ -13,6 +13,8 @@
       1. print() by default puts a newline
       3. use this print to do without newline - print(str, end = '')
       4. No semicolon to end line, \n is the separator. print(msg)
+      5. use the format to print variables like print("The count is {}".format(count))
+      1. Aslo the 
 6. Variables -
       1. Every variable is an object, type does not require to be defined.
       2. v = "a"
